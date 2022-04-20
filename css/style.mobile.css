@@ -1,0 +1,147 @@
+/* CLASSES */
+
+.title {
+    text-align: center;
+}
+
+
+/* DEBUT HEADER ET VP */
+
+header {
+    flex-direction: column;
+}
+
+header ul {
+    flex-direction: column;
+    text-align: center;
+}
+
+header ul li {
+    margin-top: 1.5rem;
+    padding: 0.5rem;
+    border-bottom: 1px dotted #ddd;
+    width: 100%;
+}
+
+.vp-content h1 {
+    font-size: 2.5rem;
+}
+
+.vp-content p {
+    font-size: 1.3rem;
+    font-weight: 400;
+}
+
+
+/* FIN HEADER ET VP */
+
+
+/* DEBUT SECTION OFFER */
+
+.offer {
+    padding: 5rem 1rem 5rem 1rem;
+    text-align: center;
+}
+
+.offer-list {
+    flex-direction: column;
+}
+
+
+/* FIN SECTION OFFER */
+
+
+/* DEBUT SECTION WHO */
+
+.who {
+    flex-direction: column-reverse;
+}
+
+.who-content-img {
+    min-height: 300px;
+}
+
+.who-content-text {
+    padding: 4rem 2rem;
+}
+
+.who-content-text h2 {
+    font-size: 1.8rem;
+}
+
+
+/* FIN SECTION WHO */
+
+
+/* DEBUT SECTION TESTIMONIALS */
+
+.testimonials {
+    padding: 3rem 1rem 3rem 1rem;
+}
+
+.testimonials-elem {
+    flex-direction: column;
+}
+
+.testimonials-elem-text {
+    padding: 0 1.5rem;
+}
+
+.testimonials-elem-reverse {
+    flex-direction: column-reverse;
+}
+
+
+/* .testimonials-elem-text {
+    padding: 0 1rem;
+} */
+
+.testimonials-elem-profil p {
+    text-align: center;
+}
+
+.testimonials-elem-profil em {
+    display: block;
+    text-align: center;
+}
+
+.testimonials-elem-profil img {
+    display: block;
+    margin: 1rem auto;
+}
+
+
+/* FIN SECTION TESTIMONIALS */
+
+
+/* DEBUT SECTION CONTACT */
+
+.contact {
+    padding: 3rem 1rem 3rem 1rem;
+}
+
+.contact-form h2 {
+    font-size: 1.7rem;
+}
+
+.contact-form button {
+    margin: 3rem auto 0 auto;
+    font-size: 1.1rem;
+}
+
+
+/* FIN SECTION CONTACT */
+
+
+/* DEBUT SECTION FOOTER */
+
+footer {
+    padding: 1rem 1rem 1rem 1rem;
+}
+
+footer p {
+    font-size: 0.9rem;
+}
+
+
+/* FIN SECTION FOOTER */
